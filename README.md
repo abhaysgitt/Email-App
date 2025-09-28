@@ -1,6 +1,6 @@
 # Email App
 
-This is a modern and responsive email app frontend designed to help users manage their email accounts efficiently. The application features an intuitive interface for composing, reading, and organizing emails, providing a seamless experience for users.
+This is a modern & responsive email app frontend designed to help users manage their email accounts efficiently. The application features an intuitive interface for composing, reading, and organizing emails, providing a seamless experience for users.
 
 ## Features
 
